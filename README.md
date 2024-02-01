@@ -2,7 +2,7 @@
 # Cozy Cup Cafe Readme
 
 ## Project Description
-Cozy Cup Cafe is a web application designed to streamline the ordering process for customers and manage operations for cafe staff.
+The Cozy Cup Cafe is a web application that is designed to streamline the ordering process for the customers and manage the operations for cafe staff.
 
 ## Features
 - User-friendly interface for customers to browse menu items and place orders
