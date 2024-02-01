@@ -52,9 +52,9 @@ Welcome to Cozy Cup Cafe, where every cup tells a story and every bite brings co
 ## About the Authors
 <img src="img/profile.jpg" alt="Your Name" width="150" style="border-radius: 50%">
 
-**Name:** [Queanna Brittany Ibrahim]
+**Name:** Queanna Brittany Ibrahim
 
-**Email:** [202080061@psu.palawan.edu.ph]
+**Email:** [202080061@psu.palawan.edu.ph](mailto:202080061@psu.palawan.edu.ph)
 
 [<img src="img/Facebook.png" alt="Facebook" width="40">](https://www.facebook.com/iamqueannab?mibextid=JRoKGi)
 [<img src="img/Github.png" alt="GitHub" width="40">](https://github.com/queanna20)
